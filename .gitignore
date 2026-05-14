@@ -1,0 +1,14 @@
+# Сборка и временные файлы CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+bin/
+build/
+
+# Исполняемый файл
+csvreader
+
+# Другое
+.DS_Store
+*.o
